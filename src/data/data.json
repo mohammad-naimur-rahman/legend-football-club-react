@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Lionel Messi",
+    "salary": 200,
+    "country": "Argentina",
+    "img": "https://i.ibb.co/3k5sm9H/player1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cristiano Ronaldo",
+    "salary": 190,
+    "country": "Portugal",
+    "img": "https://i.ibb.co/k0rYnys/player2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Neymar Jr",
+    "salary": 185,
+    "country": "Brazil",
+    "img": "https://i.ibb.co/FnQHLp6/player3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kylian Mbappé",
+    "salary": 190,
+    "country": "France",
+    "img": "https://i.ibb.co/yyHf4JT/player4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Mohamed Salah",
+    "salary": 150,
+    "country": "Egypt",
+    "img": "https://i.ibb.co/TPwnkZ5/player5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Robert Lewandowski",
+    "salary": 165,
+    "country": "Poland",
+    "img": "https://i.ibb.co/K5vtQZR/player6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jadon Sancho",
+    "salary": 140,
+    "country": "England",
+    "img": "https://i.ibb.co/0qjPPqF/player7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Harry Kane",
+    "salary": 120,
+    "country": "England",
+    "img": "https://i.ibb.co/fFVXBqT/player8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Jordan Henderson",
+    "salary": 130,
+    "country": "England",
+    "img": "https://i.ibb.co/z2tW7MW/player9.png"
+  },
+  {
+    "id": 10,
+    "name": "Virgil van Dijk",
+    "salary": 145,
+    "country": "Netherlands",
+    "img": "https://i.ibb.co/y6Fw0Rj/player10.png"
+  }
+]

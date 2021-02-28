@@ -1,0 +1,16 @@
+.player-card {
+  width: 350px;
+  background: rgba(78, 231, 180, 0.116);
+  transition: 0.4s;
+}
+.player-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.3) !important;
+}
+.player-card * {
+  line-height: 1;
+}
+.card-img {
+  width: 90px;
+  border-radius: 50%;
+}
